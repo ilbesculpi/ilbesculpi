@@ -14,6 +14,8 @@ I have always been hard working and goal's focused with proven results.
 * Android (Kotlin / Java)
 * PHP (CakePHP / Laravel)
 * Node
+* Angular
+* React
 
 
 #### ABOUT ME
