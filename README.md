@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**ilbesculpi/ilbesculpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi there
 
-Here are some ideas to get you started:
+I'm Ilbert and i'm full stack / mobile developer with more than 10 years experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an enthusiastic and very motivated person
+
+I have always been hard working and goal's focused with proven results.
+
+
+#### TECH STACK
+
+* iOS (Swift / Objective-C)
+* Android (Kotlin / Java)
+* PHP (CakePHP / Laravel)
+* Node
+
+
+#### ABOUT ME
+
+* 💻 Currently learning AWS Solutions Architecture
+* 📱 Passionate about mobile software architecture
+* 🎮 Hobbies: Play video games
+* 🎺 Hobbies: Former trombone player 😁
+* 🥗 Lifestyle: Trying to eat healthy 🥗, but ended up eating yummy 😁🍔🍕
