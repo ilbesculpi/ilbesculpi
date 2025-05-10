@@ -2,7 +2,7 @@
 
 ### 👋 Hi there
 
-I'm Ilbert and i'm full stack / mobile developer with more than 12 years of experience delivering impactful solutions across diverse industries, including finances and automotive.
+I'm Ilbert and i'm a full stack / mobile developer with more than 12 years of experience delivering impactful solutions across diverse industries, including finances and automotive.
 
 I am an enthusiastic and very motivated person.
 
